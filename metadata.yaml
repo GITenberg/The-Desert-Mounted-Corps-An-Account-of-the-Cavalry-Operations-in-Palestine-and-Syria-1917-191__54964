@@ -1,11 +1,16 @@
 _repo: The-Desert-Mounted-Corps-An-Account-of-the-Cavalry-Operations-in-Palestine-and-Syria-1917-191__54964
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54964-h/images/cover.jpg
 creator:
   author:
     agent_name: Preston, R.M.P.
     gutenberg_agent_id: '48128'
     url: http://www.gutenberg.org/2009/agents/48128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54964#The-Desert-Mounted-Corps-An-Account-of-the-Cavalry-Operations-in-Palestine-and-Syria-1917-191_
 gutenberg_issued: '2017-06-23'
 gutenberg_type: Text
 identifiers:
